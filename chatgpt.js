@@ -26,4 +26,4 @@ console.log(r);
 }
 console.log("Welcome to ChatGPT")
 skibidi(requestUrl)
-e
+

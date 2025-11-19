@@ -24,3 +24,4 @@ CharacterGenerator(requestUrl)
 // run your code with node api.js
 // add your apiKey to .env if your API needs one, otherwise ignore
 // Follow the checklist on the Performance Assessment Google Doc
+e
